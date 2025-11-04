@@ -1,0 +1,7 @@
+main = "_worker.js"
+
+# Cloudflare Workers 兼容日期
+compatibility_date = "2025-11-01"
+
+# 兼容性标志（启用最新的 Workers 功能）
+compatibility_flags = ["nodejs_compat"]
